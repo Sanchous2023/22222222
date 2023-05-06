@@ -13901,7 +13901,7 @@ var tae = M$((nae, nI) => {
             features: ["moderation", "kicking"],
             categoryId: "RangeGameGame"
         }, {
-            name: "Quixort",
+            name: "Скортисорт",
             tag: "lineup",
             wrapper: "vue",
             isPublic: !0,
