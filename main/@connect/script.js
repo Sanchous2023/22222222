@@ -26838,7 +26838,7 @@ ${t}`
             PASSWORD_JOIN_AS_PLAYER: "Зайти как Игрок",
             PASSWORD_JOIN_AS_AUDIENCE: "Зайти как Зритель",
             ROOM_CODE: "КОД КОМНАТЫ",
-            ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ 4-ЁХ БУКВЕННЫЙ КОД КОМНАТЫ"
+            ROOM_CODE_PLACEHOLDER: "КОД"
         },
         Tre = "Link to Jackbox Games Homepage",
         Sre = {
