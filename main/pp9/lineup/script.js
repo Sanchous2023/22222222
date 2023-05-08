@@ -10628,24 +10628,24 @@ ${n.message}`,
         }
     }
     const P3 = {
-            BACK: "Back",
-            CANCEL: "Cancel",
-            CLOSE: "Close",
-            CONFIRM: "Confirm",
-            CREATE: "Create",
-            DELETE: "Delete",
-            DONE: "Done",
-            EDIT: "Edit",
+           BACK: "Назад",
+            CANCEL: "Отмена",
+            CLOSE: "Закрыть",
+            CONFIRM: "Подтвердить",
+            CREATE: "Создать",
+            DELETE: "Удалить",
+            DONE: "Готово",
+            EDIT: "Исправить",
             OK: "OK",
-            NO: "No",
-            PLAY: "Play",
-            PUBLISH: "Publish",
-            REMOVE: "Remove",
-            RESET: "Reset",
-            SUBMIT: "Submit",
-            TRY_AGAIN: "Try Again",
-            UNDO: "Undo",
-            YES: "Yes"
+            NO: "Нет",
+            PLAY: "Играть",
+            PUBLISH: "Публиковать",
+            REMOVE: "Убрать",
+            RESET: "Сбросить",
+            SUBMIT: "Подтвердить",
+            TRY_AGAIN: "Попробовать снова",
+            UNDO: "Вернуть",
+            YES: "Да""
         },
         N3 = {
             UGC: {
@@ -10656,42 +10656,42 @@ ${n.message}`,
             }
         },
         k3 = {
-            DISCONNECTED: "You have been disconnected.",
-            DRAWING_NOTHING: "You have to draw something!",
-            PLAYER_KICKED: "You have been kicked from the game by a moderator.",
-            ROOM_DESTROYED: "Thanks for playing!",
-            ROOM_DISCONNECTED: "Disconnected",
+            DISCONNECTED: "Вы были отключены.",
+            DRAWING_NOTHING: "Вам нужно нарисовать что-то!",
+            PLAYER_KICKED: "Вы были исключены из игры модератором.",
+            ROOM_DESTROYED: "Спасибо за игру!",
+            ROOM_DISCONNECTED: "Отключено",
             TEXT_NAUGHTY: "I\u2019m afraid you can\u2019t write that. Please be respectful of other players.",
             TEXT_NOTHING: "You can\u2019t enter nothing!",
             TITLE: "Error"
         },
         x3 = "LOADING",
         D3 = {
-            JOINED_COUNT: "{count} of {maxPlayers} players joined",
-            PLAYERS_NEEDED: "1 player needed to start | {count} players needed to start",
-            WAITING_FOR_VIP: "Waiting for {name} to start the game",
-            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-            GAME_STARTING: "Game is starting",
-            BUTTON_START: "Press to Start",
-            BUTTON_CANCEL: "Press to Cancel"
+            JOINED_COUNT: "{count} из {maxPlayers} игроков присоеденилось",
+            PLAYERS_NEEDED: "1 игрок нужен, чтобы начать | {count} игроков нужно, чтобы начать",
+            WAITING_FOR_VIP: "Ждём, когда {name} начнёт игру",
+            WAITING_FOR_GAMEPAD: "Ждём начала игры",
+            GAME_STARTING: "Игра начинается",
+            BUTTON_START: "Нажми, для Старта",
+            BUTTON_CANCEL: "Нажми, чтобы отменить"
         },
         M3 = {
             GALLERY_LINK: "Visit the Gallery",
-            PLAY_AGAIN: "Play again?",
-            BUTTON_SAME_PLAYERS: "Same Players",
-            BUTTON_NEW_PLAYERS: "New Players"
+            PLAY_AGAIN: "Играть снова?",
+            BUTTON_SAME_PLAYERS: "Те же игроки",
+            BUTTON_NEW_PLAYERS: "Новые игроки"
         },
         B3 = {
-            AND: "AND",
-            OR: "OR"
+            AND: "И",
+            OR: "ИЛИ"
         },
         F3 = {
-            BUTTON_SKIP: "Skip",
-            BUTTON_NEXT: "Next",
+            BUTTON_SKIP: "Пропустить",
+            BUTTON_NEXT: "Дальше",
             BUTTON_DONE: "Let\u2019s Go!"
         },
         U3 = {
-            NAME: "AUDIENCE"
+            NAME: "ЗРИТЕЛИ"
         },
         G3 = {
             EPISODE_REPORT: "Report Episode",
