@@ -25352,53 +25352,53 @@ ${e}`
                 })
             })
         },
-        yae = "ASK",
-        bae = "You have used a word The Wheel does not approve of. Please try again.",
-        Eae = "NO",
-        Sae = "OR",
-        Tae = "SEND",
-        Cae = "SUBMIT",
-        wae = "WAIT TO TRY AGAIN",
-        $ae = "UNDO",
-        Oae = "YES",
+        yae = "СПРОСИТЬ",
+        bae = "Вы использовали слово, которое Коля не одобряет. Пожалуйста, попробуйте снова.",
+        Eae = "НЕТ",
+        Sae = "ИЛИ",
+        Tae = "ОТПРАВИТЬ",
+        Cae = "ПОДТВЕРДИТЬ",
+        wae = "ЖДЁМ НАЧАЛА ИГРЫ",
+        $ae = "ВЕРНУТЬ",
+        Oae = "ДА",
         xae = {
-            NAME: "THE AUDIENCE",
-            VOTE_NOW: "VOTE NOW",
-            THANKS: ["Thank you, dear audience.", "Every vote counts. Even yours!", "I thank you with all my enormity.", "I bestow upon you my deepest gratitude.", "Many thanks. I won't forget this."]
+            NAME: "ЗРИТЕЛИ",
+            VOTE_NOW: "ГОЛОСУЙТЕ СЕЙЧАС",
+            THANKS: ["Спасибо, дорогие зрители.", "Каждый голос на счету. Даже твой!", "Благодарю вас всей своей масштабностью.", "Я выражаю вам свою глубочайшую благодарность.", "Большое спасибо. Я этого не забуду."]
         },
         Aae = {
-            BANNER: "WHAT AM I THINKING?",
-            INCORRECT: "TRY AGAIN",
-            CORRECT: "GOT IT",
-            PLACEHOLDER: "Enter A Guess"
+            BANNER: "О ЧЁМ Я ДУМАЮ?",
+            INCORRECT: "ПОПРОБУЙ СНОВА",
+            CORRECT: "УГАДАЛ!",
+            PLACEHOLDER: "Ввести предположение"
         },
         Lae = {
-            BANNER: "COUNTERPARTS",
-            CORRECT: "MATCH",
-            FROZEN: "INCORRECT"
+            BANNER: "СОПОСТАВЛЕНИЯ",
+            CORRECT: "ВЕРНО!",
+            FROZEN: "НЕВЕРНО!"
         },
         Iae = {
             BANNER: "ENUMERATE"
         },
         Mae = {
-            PLACE: "PLACE YOUR SLICES",
-            SUBMIT: "DONE! PRESS SUBMIT",
-            THANKS: "NICE JOB"
+            PLACE: "ПОЛОЖИ СВОИ СЕКТОРЫ",
+            SUBMIT: "ГОТОВО! НАЖМИ ПОДТВЕРДИТЬ",
+            THANKS: "ХОРОШАЯ РАБОТА"
         },
         Pae = {
-            BANNER: "WELCOME",
-            PLACEHOLDER: "Enter A Question"
+            BANNER: "ЗДАРОВА, ШПАНА",
+            PLACEHOLDER: "Ввести Вопрос"
         },
         Rae = {
-            BANNER: "THAT [small]OR[/small] THIS",
-            CORRECT: "CORRECT",
-            FROZEN: "INCORRECT"
+            BANNER: "ТО [small]ДА[/small] СЁ",
+            CORRECT: "ХАРОШ",
+            FROZEN: "ПЛОХ"
         },
         Nae = {
-            ANSWER_BANNER: "YOU WIN!",
-            MAIN_BANNER: "SPIN [small]THE[/small] WHEEL",
-            RAINBOW_BANNER: "RAINBOW WHEEL",
-            WIN_BANNER: "FOR [small]THE[/small] WIN"
+            ANSWER_BANNER: "ПОБЕДА!",
+            MAIN_BANNER: "КРУТИ [small]МЕНЯ[/small]",
+            RAINBOW_BANNER: "РАДУЖНЫЙ КОЛЯ",
+            WIN_BANNER: "НА[small]ПОБЕДУ![/small]"
         },
         kae = {
             OBJECTIVE_BANNER: "DON'T FORGET TO WRITE",
@@ -25410,7 +25410,7 @@ ${e}`
             PLACEHOLDER: "Enter A Guess"
         },
         Dae = {
-            SPIN: '[player avatar="{avatar}"]{name}[/player] is the spinner',
+            SPIN: '[player avatar="{avatar}"]{name}[/player] крутит Колю',
             MESSAGES: ["Remember... patience is a virtue.", "This is a blank screen. Or is it?", "Action awaits!", "Oh, the waiting. The waiting!", "Just wait till the next part!", "Hey, nice controller! Sorry, just making conversation.", "(Insert on-hold music here)", "Sit tight, little meeple.", "I believe in you. Shhh... don't tell anyone.", "It's about to get exciting in here.", "Nothing to see here.", "Behold... a screen with only these words on it.", "Property of the Wheel of Enormous Proportions", "The Wheel Was Here"]
         },
         Bae = {
