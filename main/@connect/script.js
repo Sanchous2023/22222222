@@ -13823,7 +13823,7 @@ var tae = M$((nae, nI) => {
             categoryId: "DrawfulAnimateGame",
             features: ["moderation"]
         }, {
-            name: "The Wheel of Enormous Proportions",
+            name: "Пельмень Невероятных Масштабов",
             tag: "the-wheel",
             wrapper: "vue",
             isPublic: !0,
