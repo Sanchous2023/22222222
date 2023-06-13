@@ -25390,15 +25390,15 @@ ${e}`
             PLACEHOLDER: "Ввести Вопрос"
         },
         Rae = {
-            BANNER: "ТО [small]ДА[/small] СЁ",
+            BANNER: "ТО ДА СЁ",
             CORRECT: "ХАРОШ",
             FROZEN: "ПЛОХ"
         },
         Nae = {
             ANSWER_BANNER: "ПОБЕДА!",
-            MAIN_BANNER: "КРУТИ [small]МЕНЯ[/small]",
+            MAIN_BANNER: "КРУТИ МЕНЯ",
             RAINBOW_BANNER: "РАДУЖНЫЙ КОЛЯ",
-            WIN_BANNER: "НА[small]ПОБЕДУ![/small]"
+            WIN_BANNER: "НА ПОБЕДУ!"
         },
         kae = {
             OBJECTIVE_BANNER: "DON'T FORGET TO WRITE",
@@ -25411,7 +25411,7 @@ ${e}`
         },
         Dae = {
             SPIN: '[player avatar="{avatar}"]{name}[/player] крутит Колю',
-            MESSAGES: ["Remember... patience is a virtue.", "This is a blank screen. Or is it?", "Action awaits!", "Oh, the waiting. The waiting!", "Just wait till the next part!", "Hey, nice controller! Sorry, just making conversation.", "(Insert on-hold music here)", "Sit tight, little meeple.", "I believe in you. Shhh... don't tell anyone.", "It's about to get exciting in here.", "Nothing to see here.", "Behold... a screen with only these words on it.", "Property of the Wheel of Enormous Proportions", "The Wheel Was Here"]
+            MESSAGES: ["Помни, а то забудешь.", "Вау ты нашёл секретное сообщение! Тебя не должно было быть тут! Молодец! Вот это блять ты представлял? Это блять ты хотел найти сука когда написал ответ? Хмммм блять может создатели мода припрятали где-то секретку, просто надо будет её найти блять. Что ж, ты нашёл? Это не то, что ты хотел найти? Иди нахуй.", "Хуба буба.", "Помнишь террористы школу захватили в 2004 году? Моих рук дело. Лан шучу.", ".", "Обернись.", "мкекп5епе5ге5рре5гпе5гпре5грнре53гпрешпое5ш09.", "Прив.", "Иди нахуй.", "Введите текст.", "Ахахахах смотри смешное видео https://youtu.be/Hyur4CIcf-U", "Perché tradotto", "Помогите.", "Иди играй, не отвлекайся."]
         },
         Bae = {
             ANSWER: "answer slice.",
