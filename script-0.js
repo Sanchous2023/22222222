@@ -452,7 +452,7 @@ var u0 = $u((f0, mu) => {
             }
     }();
     u.base64Encode = function(t) {
-        var e = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+        var e = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя0123456789+/=",
             r, n, i, a, s, o, c, l, d = 0,
             g = 0,
             y = "",
