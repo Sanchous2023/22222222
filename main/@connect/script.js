@@ -6942,7 +6942,7 @@ var tae = M$((nae, nI) => {
             }
     }();
     b.base64Encode = function(e) {
-        var t = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+        var t = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя0123456789+/=",
             r, n, s, a, c, u, f, d, p = 0,
             y = 0,
             v = "",
